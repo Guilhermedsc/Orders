@@ -13,5 +13,6 @@ Esse é um projeto desenvolvido durante o NLW Expert da RocketSeat. Se trata de 
 
 -   [Figma](https://www.figma.com/community/file/1336456468568916765/nlw-expert-orders)
 
-<!-- ## Github Pages
-- [Deploy da aplicação](https://guilhermedsc.github.io/Desafio-de-programacao_estagio-mandarim/) -->
+## Vídeo executando o app
+
+<video controls src="midia/midia.mp4" title="Title"></video>
