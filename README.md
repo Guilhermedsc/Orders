@@ -15,4 +15,4 @@ Esse é um projeto desenvolvido durante o NLW Expert da RocketSeat. Se trata de 
 
 ## Vídeo executando o app
 
-<video controls src="https://github.com/Guilhermedsc/Orders/blob/main/midia/midia.mp4" title="Title"></video>
+<video controls src="./midia.mp4" title="Title"></video>
