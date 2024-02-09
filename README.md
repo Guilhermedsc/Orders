@@ -14,5 +14,3 @@ Esse é um projeto desenvolvido durante o NLW Expert da RocketSeat. Se trata de 
 -   [Figma](https://www.figma.com/community/file/1336456468568916765/nlw-expert-orders)
 
 ## Vídeo executando o app
-
-https://github.com/Guilhermedsc/Orders/blob/main/midia/midia.mp4
